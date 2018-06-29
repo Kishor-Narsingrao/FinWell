@@ -761,7 +761,7 @@ div.promo__item.promo__item--bottom {
     }
 
     .player__wrapper {
-        width: 1080px;
+        width: 1000px;
         height: 441px;
     }
 
@@ -775,11 +775,11 @@ div.promo__item.promo__item--bottom {
     }
 
     .timeline__controls--left {
-        width: 155px;
+        width: 110px;
     }
 
     .timeline__controls--center {
-        width: 1200px;
+        width: 875px;
     }
 
     .timeline--no-volume .timeline__controls--center {
