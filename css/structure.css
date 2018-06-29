@@ -154,8 +154,8 @@ sub {
     width: 270px;
     min-height: 1px;
     position: relative;
-    left: 3%;
-    margin-top: 7%;
+    left: 6%;
+    margin-top: 1%;
     margin-right: -2%;
 }
 
@@ -269,8 +269,8 @@ sub {
     position: relative;
     width: 80%;
     height: 80%;
-    top: 10%;
-    left: 8%;
+    top: 4%;
+    left: 13%;
     box-shadow: 0 10px 22px -5px black;
 }
 
@@ -729,7 +729,7 @@ div.promo__item.promo__item--bottom {
 
     .cta--side,
     .promo--side {
-        width: 130px;
+        width: 115px;
     }
 
     .cta--side.cta--1 .cta__button {
@@ -749,7 +749,7 @@ div.promo__item.promo__item--bottom {
     }
 
     .cta--side.cta--5 .cta__button {
-        height: 100px;
+        height: 78px;
     }
 
     .promo--side .promo__item {
@@ -761,7 +761,7 @@ div.promo__item.promo__item--bottom {
     }
 
     .player__wrapper {
-        width: 1000px;
+        width: 786px;
         height: 441px;
     }
 
